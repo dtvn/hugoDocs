@@ -5,7 +5,7 @@ features:
   - heading: Tốc độ vũ bão
     image_path: /images/icon-fast.svg
     tagline: Còn gì là hiện đại khi bạn phải chờ máy tạo web cho xong?
-    copy: So với những công cụ cùng loại, Hugo là nhanh nhất. Với tốc độ dưới 1ms cho mỗi trang, việc tạo những web thông thường tốn chưa đến 1 giây.
+    copy: So với những công cụ cùng loại, Hugo nhanh hơn cả. Với tốc độ dưới 1ms cho mỗi trang, việc tạo những web thông thường tốn chưa đến 1 giây.
 
   - heading: Robust Content Management
     image_path: /images/icon-content-management.svg
